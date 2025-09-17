@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vagabonds-sih/server#readme",
+  "bugs": {
+    "url": "https://github.com/vagabonds-sih/server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagabonds-sih/server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
